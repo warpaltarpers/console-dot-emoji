@@ -13,9 +13,6 @@ console.unicorn = console.log.bind(console, '🦄');
 console.pizza = console.log.bind(console, '🍕');
 console.beer = console.log.bind(console, '🍺');
 console.poo = console.log.bind(console, '💩');
-
-// Log to the console!
-console.unicorn("Magical!");
-console.beer("Cheers!");
-console.pizza("Tasty!");
-console.poo("Oh f*ck!");
+console.dog = console.log.bind(console, '🐶');
+console.cat = console.log.bind(console, '🐱');
+console.rainbow = console.log.bind(console, '🌈');
