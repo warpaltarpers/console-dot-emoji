@@ -16,3 +16,6 @@ console.poo = console.log.bind(console, '💩');
 console.dog = console.log.bind(console, '🐶');
 console.cat = console.log.bind(console, '🐱');
 console.rainbow = console.log.bind(console, '🌈');
+console.pumpkin = console.log.bind(console, '🎃');
+console.skeltal = console.log.bind(console, '💀');
+console.candy = console.log.bind(console, '🍬');
